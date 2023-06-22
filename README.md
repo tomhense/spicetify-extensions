@@ -45,7 +45,7 @@ notification-error = 000000
 misc               = 000000
 ```
 
-For every color section in this file we will have to add the color codes for the light theme (it is easiest to just copy this together):
+For every color section in this file we will have to add the color codes for the light theme (it is easiest to just copy this together if the theme already contains sections for light colors):
 ```
 [gray]
 text               = 000000
@@ -81,7 +81,7 @@ light-misc               = 000000
 ```
 
 # GenresInfo
-Adds a context menu entry when you right click on a artist entry, this entry allows you to view which genres this artist is associated with (using the spotify api).\
+Adds a context menu entry when you right click on a artist entry, this entry allows you to view which genres this artist is associated with (using the spotify api).
 
 # Songstats
 Adds a context menu entry when you right on a track, this entry statistics like BPM about of track (using the spotify api).
