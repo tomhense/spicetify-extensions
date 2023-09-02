@@ -28,5 +28,5 @@
 		ctrl: true, 
 		shift: false,
 		alt: false
-	}, toggleSideabr);
+	}, toggleSidebar);
 })();
