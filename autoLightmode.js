@@ -8,7 +8,7 @@
 
 (function autoLightmode() {
 	const checkDarkModeServer = "http://127.0.0.1:8160";
-	const checkDarkModeServerEnabled = true;
+	const checkDarkModeServerEnabled = false;
 
 	if (!Spicetify.Keyboard) {
 		setTimeout(autoLightmode, 1000);
