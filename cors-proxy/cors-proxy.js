@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // Listen on a specific host via the HOST environment variable
 var host = process.env.HOST || "127.0.0.1";
 // Listen on a specific port via the PORT environment variable
