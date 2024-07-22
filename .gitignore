@@ -11,3 +11,4 @@ webnowplaying.js
 wikify.js
 autoVolume.js
 node_modules/
+**/venv/
